@@ -76,7 +76,6 @@ header ul li a {
 /* Features Section */
 .features {
 	padding: 50px 0;
-	text-align: center;
 }
 .features h2 {
 	font-size: 36px;
@@ -84,14 +83,24 @@ header ul li a {
 }
 .feature-grid {
 	display: flex;
-	justify-content: space-between;
+	flex-wrap: wrap;
+	gap: 20px;
+	justify-content: center;
 }
 .feature-item {
-	flex: 1;
 	padding: 20px;
 	background: #f4f4f4;
 	margin: 10px;
-	border-radius: 20px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	text-align: center;
+	width: 300px;
+}
+.feature-item img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 10px;
+	margin-bottom: 15px;
 }
 .feature-item h3 {
 	font-size: 24px;
