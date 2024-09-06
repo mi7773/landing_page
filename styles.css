@@ -50,6 +50,7 @@ header ul li a {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	flex-direction: column;
 }
 .hero h1 {
 	font-size: 48px;
@@ -66,6 +67,7 @@ header ul li a {
 	text-decoration: none;
 	font-size: 18px;
 	border-radius: 5px;
+
 }
 .hero .btn:hover {
 	background: #333;
