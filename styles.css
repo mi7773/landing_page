@@ -29,3 +29,6 @@ header .logo {
 header nav {
 	float: right;
 }
+header ul {
+	list-style: none;
+}
