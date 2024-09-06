@@ -73,3 +73,23 @@ header ul li a {
 .hero .btn:hover {
 	background: #333;
 }
+/* Features Section */
+.features {
+	padding: 50px 0;
+	text-align: center;
+}
+.features h2 {
+	font-size: 36px;
+	margin-bottom: 40px;
+}
+.feature-grid {
+	display: flex;
+	justify-content: space-between;
+}
+.feature-item {
+	flex: 1;
+	padding: 20px;
+	background: #f4f4f4;
+	margin: 10px;
+	border-radius: 20px;
+}
