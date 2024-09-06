@@ -96,3 +96,28 @@ header ul li a {
 	font-size: 24px;
 	margin-bottom: 15px;
 }
+/* About Section */
+.about {
+	background: #333;
+	color: #fff;
+	padding: 50px 0;
+	text-align: center;
+}
+.about h2 {
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+/* Contact Section */
+.contact {
+	padding: 50px 0;
+	text-align: center;
+}
+.contact h2 {
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+.contact .social-media-links {
+	color: #fff;
+	text-decoration: none;
+	font-size: 16px;
+}
