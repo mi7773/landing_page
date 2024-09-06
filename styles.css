@@ -61,8 +61,8 @@ header ul li a {
 	font-size: 18px;
 	margin-bottom: 30px;
 }
-.hero .labeled-buttons {
-	text-align: center;
+.hero ul {
+	list-style: none;
 }
 .hero .btn {
 	background:  #e8491d;
