@@ -67,3 +67,6 @@ header ul li a {
 	font-size: 18px;
 	border-radius: 5px;
 }
+.hero .btn:hover {
+	background: #333;
+}
