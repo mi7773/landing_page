@@ -120,6 +120,9 @@ header ul li a {
 .about a {
 	color: #ADD8E6;
 }
+.about .paragraphs {
+	line-height: 1.6;
+}
 /* Contact Section */
 .contact {
 	padding: 50px 0;
