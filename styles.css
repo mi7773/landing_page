@@ -117,6 +117,9 @@ header ul li a {
 	font-size: 36px;
 	margin-bottom: 20px;
 }
+.bout a {
+	color: #ADD8E6;
+}
 /* Contact Section */
 .contact {
 	padding: 50px 0;
